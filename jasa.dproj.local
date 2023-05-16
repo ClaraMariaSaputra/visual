@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 08:37:22.000.527,=C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 08:43:47.000.558,=C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/15 20:33:43.000.874,=C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/15 20:50:22.000.974,=C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/15 22:34:27.000.628,C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit1.dfm=C:\2110020034\hotel.dfm</Transaction>
+    <Transaction>2023/05/15 22:34:27.000.628,C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit1.pas=C:\2110020034\hotel.pas</Transaction>
+    <Transaction>2023/05/15 22:34:53.000.977,C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit2.pas=C:\2110020034\Umodul.pas</Transaction>
+    <Transaction>2023/05/15 22:34:53.000.977,C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Unit2.dfm=C:\2110020034\Umodul.dfm</Transaction>
+    <Transaction>2023/05/15 23:34:02.000.943,C:\Users\Clara\OneDrive\Dokumen\Embarcadero\Studio\Projects\Project1.dproj=C:\2110020034\jasa.dproj</Transaction>
+    <Transaction>2023/05/16 08:42:19.290,=C:\2110020034\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 08:45:37.279,C:\2110020034\tbl_detail.dfm=C:\2110020034\Unit2.dfm</Transaction>
+    <Transaction>2023/05/16 08:45:37.279,C:\2110020034\tbl_detail.pas=C:\2110020034\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 08:45:46.389,=C:\2110020034\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:52:06.433,C:\2110020034\tbl_kamar.pas=C:\2110020034\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:52:06.433,C:\2110020034\tbl_kamar.dfm=C:\2110020034\Unit3.dfm</Transaction>
+    <Transaction>2023/05/16 08:52:12.943,=C:\2110020034\Unit4.pas</Transaction>
+    <Transaction>2023/05/16 08:59:49.976,C:\2110020034\tbl_reservasi.pas=C:\2110020034\Unit4.pas</Transaction>
+    <Transaction>2023/05/16 08:59:49.976,C:\2110020034\tbl_reservasi.dfm=C:\2110020034\Unit4.dfm</Transaction>
+    <Transaction>2023/05/16 08:59:55.811,=C:\2110020034\Unit5.pas</Transaction>
+    <Transaction>2023/05/16 09:03:48.915,C:\2110020034\tbl_tamu.pas=C:\2110020034\Unit5.pas</Transaction>
+    <Transaction>2023/05/16 09:03:48.915,C:\2110020034\tbl_tamu.dfm=C:\2110020034\Unit5.dfm</Transaction>
+    <Transaction>2023/05/16 09:04:04.459,=C:\2110020034\Unit6.pas</Transaction>
+    <Transaction>2023/05/16 09:06:42.178,C:\2110020034\tbl_tipekamar.dfm=C:\2110020034\Unit6.dfm</Transaction>
+    <Transaction>2023/05/16 09:06:42.178,C:\2110020034\tbl_tipekamar.pas=C:\2110020034\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>
